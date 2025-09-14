@@ -372,3 +372,4 @@ class ADM1Simulator:
             self.output_data.to_excel(writer, sheet_name='Process_Data', index=False)
         print(f"Simulation results saved to {file_path}")
 
+
